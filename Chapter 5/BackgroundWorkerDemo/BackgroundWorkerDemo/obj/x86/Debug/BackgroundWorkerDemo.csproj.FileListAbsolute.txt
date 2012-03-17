@@ -11,3 +11,12 @@ C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWork
 C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.pdb
 X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.exe
 X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.pdb
+X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\bin\Debug\BackgroundWorkerDemo.exe
+X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\bin\Debug\BackgroundWorkerDemo.pdb
+X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\MainWindow.baml
+X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\MainWindow.g.cs
+X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\App.g.cs
+X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo_MarkupCompile.cache
+X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.g.resources
+X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.Properties.Resources.resources
+X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.csproj.GenerateResource.Cache
