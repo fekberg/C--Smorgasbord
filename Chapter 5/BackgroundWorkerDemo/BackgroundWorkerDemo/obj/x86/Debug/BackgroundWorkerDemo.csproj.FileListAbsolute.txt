@@ -1,0 +1,13 @@
+C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\bin\Debug\BackgroundWorkerDemo.exe
+C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\bin\Debug\BackgroundWorkerDemo.pdb
+C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\MainWindow.baml
+C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\MainWindow.g.cs
+C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\App.g.cs
+C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo_MarkupCompile.cache
+C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.g.resources
+C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.Properties.Resources.resources
+C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.csproj.GenerateResource.Cache
+C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.exe
+C:\A C# Smorgasbord\Asynchronous Programming\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.pdb
+X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.exe
+X:\Filip\Work\Programming\Projects\A-C--Smorgasbord\Chapter 5\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.pdb
