@@ -1,0 +1,113 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml" caret="0" fromTop="0" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="880" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1269" fromTop="48" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="145" fromTop="6" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="34" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="34" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="34" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="41" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="37" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="37" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="37" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="38" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="38" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="38" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="38" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="38" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="38" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="38" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="38" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="38" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="36" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="1246" fromTop="39" />
+      <File id="D20B5927-6B99-4DEF-84AC-29B55139B915/f:MainWindow.xaml.cs" caret="804" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="TPLDemo" priority="31" />
+      <Item value="App`0" priority="31" />
+      <Item value="Application`0" priority="58" />
+      <Item value="InitializingNewItemEventArgs`0" priority="95" />
+      <Item value="Activate`0" priority="31" />
+      <Item value="Action&lt;Task&gt;" priority="28" />
+      <Item value="new" priority="95" />
+      <Item value="_result" priority="31" />
+      <Item value="parentTask" priority="63" />
+      <Item value="Result" priority="53" />
+      <Item value="var" priority="159" />
+      <Item value="Thread`0" priority="95" />
+      <Item value="Task`0" priority="127" />
+      <Item value="task" priority="95" />
+      <Item value="string" priority="92" />
+      <Item value="return" priority="95" />
+      <Item value="DateTime`0" priority="63" />
+      <Item value="private" priority="31" />
+      <Item value="ProcessOrder`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="Current" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="Dispatcher" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="Invoke`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task">
+      <Item value="Start`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Task">
+      <Item value="Factory" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskFactory">
+      <Item value="StartNew`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Task`1">
+      <Item value="Factory" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskFactory`1">
+      <Item value="StartNew`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToShortTimeString`0" priority="26" />
+      <Item value="ToString`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task`1">
+      <Item value="Result" priority="26" />
+      <Item value="ContinueWith`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

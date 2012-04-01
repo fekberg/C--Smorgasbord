@@ -31,11 +31,20 @@ namespace BackgroundWorkerDemo
 
         }
 
-        void worker_DoWork(object sender, DoWorkEventArgs e)
+        private string ProcessOrder()
         {
             Thread.Sleep(2000);
 
-            Application.Current.Dispatcher.Invoke(new Action(() => { _result.Text = DateTime.Now.ToString(); }));
+            return DateTime.Now.ToString();
+        }
+
+        void worker_DoWork(object sender, DoWorkEventArgs e)
+        {
+            var orderProcessResult = ProcessOrder();
+
+            Application.Current.Dispatcher.Invoke(
+                new Action(() => { _result.Text = orderProcessResult; })
+            );
         }
 
         void button_Click(object sender, RoutedEventArgs e)
