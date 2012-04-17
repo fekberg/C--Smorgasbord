@@ -1,0 +1,53 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="856" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1422" fromTop="27" />
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1422" fromTop="20" />
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1422" fromTop="5" />
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1422" fromTop="12" />
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1422" fromTop="44" />
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1422" fromTop="2" />
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1422" fromTop="26" />
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1422" fromTop="25" />
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1422" fromTop="29" />
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1422" fromTop="36" />
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1473" fromTop="41" />
+      <File id="378DE260-B2E1-46B8-BA72-46C2F4B6132F/f:Program.cs" caret="1508" fromTop="50" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="class" priority="61" />
+      <Item value="prop" priority="95" />
+      <Item value="string" priority="61" />
+      <Item value="var" priority="95" />
+      <Item value="new" priority="129" />
+      <Item value="Person" priority="57" />
+      <Item value="Name" priority="63" />
+      <Item value="filip" priority="31" />
+      <Item value="Location" priority="90" />
+      <Item value="Address" priority="31" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

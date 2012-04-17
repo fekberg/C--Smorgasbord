@@ -1,0 +1,45 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E81989E6-DAD7-417E-8DB2-40052267FEF2/f:Program.cs" caret="1248" fromTop="1" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E81989E6-DAD7-417E-8DB2-40052267FEF2/f:Program.cs" caret="0" fromTop="0" />
+      <File id="E81989E6-DAD7-417E-8DB2-40052267FEF2/f:Program.cs" caret="86" fromTop="4" />
+      <File id="E81989E6-DAD7-417E-8DB2-40052267FEF2/f:Program.cs" caret="203" fromTop="9" />
+      <File id="E81989E6-DAD7-417E-8DB2-40052267FEF2/f:Program.cs" caret="602" fromTop="4" />
+      <File id="E81989E6-DAD7-417E-8DB2-40052267FEF2/f:Program.cs" caret="602" fromTop="8" />
+      <File id="E81989E6-DAD7-417E-8DB2-40052267FEF2/f:Program.cs" caret="602" fromTop="12" />
+      <File id="E81989E6-DAD7-417E-8DB2-40052267FEF2/f:Program.cs" caret="602" fromTop="13" />
+      <File id="E81989E6-DAD7-417E-8DB2-40052267FEF2/f:Program.cs" caret="1491" fromTop="32" />
+      <File id="E81989E6-DAD7-417E-8DB2-40052267FEF2/f:Program.cs" caret="1445" fromTop="29" />
+      <File id="E81989E6-DAD7-417E-8DB2-40052267FEF2/f:Program.cs" caret="1250" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="person" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Setting_Values_with_Reflection.Person">
+      <Item value="GetType`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
