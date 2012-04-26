@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How dynamic methods affect resources", "How dynamic methods affect resources\How dynamic methods affect resources.csproj", "{F7C108C0-C397-4A74-B692-12FDB3B7A708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating a lot of methods on disk", "Creating a lot of methods on disk\Creating a lot of methods on disk.csproj", "{7E94D322-D2DB-42BE-8480-2BDF36AFE685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7C108C0-C397-4A74-B692-12FDB3B7A708}.Debug|x86.ActiveCfg = Debug|x86
+		{F7C108C0-C397-4A74-B692-12FDB3B7A708}.Debug|x86.Build.0 = Debug|x86
+		{F7C108C0-C397-4A74-B692-12FDB3B7A708}.Release|x86.ActiveCfg = Release|x86
+		{F7C108C0-C397-4A74-B692-12FDB3B7A708}.Release|x86.Build.0 = Release|x86
+		{7E94D322-D2DB-42BE-8480-2BDF36AFE685}.Debug|x86.ActiveCfg = Debug|x86
+		{7E94D322-D2DB-42BE-8480-2BDF36AFE685}.Debug|x86.Build.0 = Debug|x86
+		{7E94D322-D2DB-42BE-8480-2BDF36AFE685}.Release|x86.ActiveCfg = Release|x86
+		{7E94D322-D2DB-42BE-8480-2BDF36AFE685}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
