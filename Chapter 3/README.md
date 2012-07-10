@@ -1,4 +1,4 @@
-A C# Smorgasbord - Code Samples for Chapter 3
+C# Smorgasbord - Code Samples for Chapter 3
 =============================================
 
 ### What do I need to run the samples?
